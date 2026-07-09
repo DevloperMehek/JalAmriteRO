@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JalAmriteRO/static/css/main.c9b84e09.css",
+    "main.js": "/JalAmriteRO/static/js/main.e31a50b7.js",
+    "static/media/AdityaImg.png": "/JalAmriteRO/static/media/AdityaImg.f84c0ad2510cbc51d6bc.png",
+    "static/media/JalAmritAssembled4999.png": "/JalAmriteRO/static/media/JalAmritAssembled4999.12403e6b171fb73543fb.png",
+    "static/media/ZinkRO.png": "/JalAmriteRO/static/media/ZinkRO.2629c1768a26b5472082.png",
+    "static/media/CopperRO.png": "/JalAmriteRO/static/media/CopperRO.19873c227649b70bf458.png",
+    "static/media/MineralRO.png": "/JalAmriteRO/static/media/MineralRO.330d3a7770c6f499af04.png",
+    "static/media/Commercial50LPh.jpeg": "/JalAmriteRO/static/media/Commercial50LPh.6fbb3ac250da28c8cf38.jpeg",
+    "static/media/Commercial25LPh.jpeg": "/JalAmriteRO/static/media/Commercial25LPh.179313786ab73b3610cc.jpeg",
+    "static/media/ServiceAt99.jpg": "/JalAmriteRO/static/media/ServiceAt99.84bab30aa7d09d12cc90.jpg",
+    "static/media/RentalRO.jpg": "/JalAmriteRO/static/media/RentalRO.5a9e0f61fee8a155dbef.jpg",
+    "index.html": "/JalAmriteRO/index.html",
+    "main.c9b84e09.css.map": "/JalAmriteRO/static/css/main.c9b84e09.css.map",
+    "main.e31a50b7.js.map": "/JalAmriteRO/static/js/main.e31a50b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b84e09.css",
+    "static/js/main.e31a50b7.js"
+  ]
+}
